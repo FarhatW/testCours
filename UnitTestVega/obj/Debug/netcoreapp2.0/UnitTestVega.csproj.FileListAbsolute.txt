@@ -1,0 +1,16 @@
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\UnitTestVega.deps.json
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\UnitTestVega.runtimeconfig.json
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\UnitTestVega.runtimeconfig.dev.json
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\UnitTestVega.dll
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\vega.dll
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\vega.pdb
+C:\Users\web07\Documents\testCours\UnitTestVega\obj\Debug\netcoreapp2.0\UnitTestVega.csprojResolveAssemblyReference.cache
+C:\Users\web07\Documents\testCours\UnitTestVega\obj\Debug\netcoreapp2.0\UnitTestVega.csproj.CoreCompileInputs.cache
+C:\Users\web07\Documents\testCours\UnitTestVega\obj\Debug\netcoreapp2.0\UnitTestVega.AssemblyInfoInputs.cache
+C:\Users\web07\Documents\testCours\UnitTestVega\obj\Debug\netcoreapp2.0\UnitTestVega.AssemblyInfo.cs
+C:\Users\web07\Documents\testCours\UnitTestVega\bin\Debug\netcoreapp2.0\UnitTestVega.pdb
+C:\Users\web07\Documents\testCours\UnitTestVega\obj\Debug\netcoreapp2.0\UnitTestVega.dll
+C:\Users\web07\Documents\testCours\UnitTestVega\obj\Debug\netcoreapp2.0\UnitTestVega.pdb

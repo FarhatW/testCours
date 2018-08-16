@@ -1,0 +1,16 @@
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\XUnitTestVega.deps.json
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\XUnitTestVega.runtimeconfig.json
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\XUnitTestVega.runtimeconfig.dev.json
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\XUnitTestVega.dll
+C:\Users\web07\Documents\testCours\XUnitTestVega\obj\Debug\netcoreapp2.0\XUnitTestVega.csprojResolveAssemblyReference.cache
+C:\Users\web07\Documents\testCours\XUnitTestVega\obj\Debug\netcoreapp2.0\XUnitTestVega.csproj.CoreCompileInputs.cache
+C:\Users\web07\Documents\testCours\XUnitTestVega\obj\Debug\netcoreapp2.0\XUnitTestVega.AssemblyInfoInputs.cache
+C:\Users\web07\Documents\testCours\XUnitTestVega\obj\Debug\netcoreapp2.0\XUnitTestVega.AssemblyInfo.cs
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\XUnitTestVega.pdb
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\vega.dll
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\vega.pdb
+C:\Users\web07\Documents\testCours\XUnitTestVega\obj\Debug\netcoreapp2.0\XUnitTestVega.dll
+C:\Users\web07\Documents\testCours\XUnitTestVega\obj\Debug\netcoreapp2.0\XUnitTestVega.pdb
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\web07\Documents\testCours\XUnitTestVega\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll

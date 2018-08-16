@@ -1,0 +1,10 @@
+C:\Users\web07\Documents\jce\obj\Debug\netcoreapp2.0\jce.csproj.CoreCompileInputs.cache
+C:\Users\web07\Documents\jce\obj\Debug\netcoreapp2.0\jce.AssemblyInfoInputs.cache
+C:\Users\web07\Documents\jce\obj\Debug\netcoreapp2.0\jce.AssemblyInfo.cs
+C:\Users\web07\Documents\jce\bin\Debug\netcoreapp2.0\jce.deps.json
+C:\Users\web07\Documents\jce\bin\Debug\netcoreapp2.0\jce.runtimeconfig.json
+C:\Users\web07\Documents\jce\bin\Debug\netcoreapp2.0\jce.runtimeconfig.dev.json
+C:\Users\web07\Documents\jce\bin\Debug\netcoreapp2.0\jce.dll
+C:\Users\web07\Documents\jce\bin\Debug\netcoreapp2.0\jce.pdb
+C:\Users\web07\Documents\jce\obj\Debug\netcoreapp2.0\jce.dll
+C:\Users\web07\Documents\jce\obj\Debug\netcoreapp2.0\jce.pdb
